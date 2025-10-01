@@ -1,6 +1,6 @@
-<h3 align="center">Yo! I'm <a target="_blank" href="https://edme.au">Edme</a>.</h3>
+<h3 align="center">Yo! I'm Edme.</h3>
 <p align="center">
-    Bachelor of Biomedical Sciences Candidate @ the <a rel="nofollow noopener noreferrer" target="_blank" href="https://qut.edu.au">Queensland University of Technology</a>
+    A budding CyberSecurity Student.
 </p>
 
 <!-- Made using https://shields.io/badges with the following parameters:
@@ -12,8 +12,19 @@
 
     labelColor using https://color.adobe.com/create/color-wheel on Monochromatic
 -->
-#### What's my deal?
-Just here to vibe really.
 
-#### Riveting.
-ikr? if you want more, check out my blog [here](https://edme.au).
+<h4>
+    Qualifications
+</h4>
+<h4>
+    Projects
+</h4>
+<ul>
+    <li>CompTIA Security+</li>
+    <li><a href="https://edama.dev">edama.dev</a></li>
+</ul>
+<!--
+<h4>
+    Home Lab Projects
+</h4>
+-->
