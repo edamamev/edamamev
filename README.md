@@ -34,4 +34,4 @@
     Home Lab Projects
 </h4>
 -->
-> [Credly Badges](https://www.credly.com/users/edme-vuntak/badges#credly)
+<blockquote><a href="https://www.credly.com/users/edme-vuntak/badges#credly">Credly Badges</a></blockquote>
