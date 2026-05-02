@@ -15,6 +15,7 @@
 <h4>Pentesting Platforms</h4>
 <ul>
   <li><a href="https://pentesterlab.com/profile/edamamev">PentesterLab</a></li>
+  <li><a href="https://www.wechall.net/profile/edamamev">WeChall</a></li>
 </ul>
 <h4>Studying</h4>
 <ul>
