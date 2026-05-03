@@ -23,13 +23,6 @@
   <li><a href="https://www.netacad.com/career-paths/cybersecurity?courseLang=en-US">Junior Cybersecurity Analyst</a> in preparation for Cisco's <a href="https://www.netacad.com/resources/program-info/ccst-cybersecurity?courseLang=en-US">CCST Certificate</a></li>
   <li><a href="https://www.comptia.org/en-au/certifications/a-cyber/">a+ Cyber</a> @ CompTIA in Preparation for the <a href="https://www.comptia.org/en-au/certifications/security/">Security+ Qualification</a></li>
 </ul>
-<h4>
-    Projects
-</h4>
-<ul>
-    <li>CompTIA Security+</li>
-    <li><a href="https://edama.dev">edama.dev</a></li>
-</ul>
 <!--
 <h4>
     Home Lab Projects
