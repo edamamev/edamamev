@@ -20,7 +20,7 @@
 <h4>Studying</h4>
 <ul>
   <li><a href="https://training.gov.au/Training/Details/22603VIC/summary">Certificate IV in Cyber Security</a> @ TafeQLD - Will Graduate at the end of 2026</li>
-  <li><a href="https://www.netacad.com/career-paths/cybersecurity?courseLang=en-US">Junior Cybersecurity Analyst</a> in preparation for Cisco's <a href="https://www.netacad.com/resources/program-info/ccst-cybersecurity?courseLang=en-US">CCST Certificate</a></li>
+  <li><a href="https://www.netacad.com/career-paths/cybersecurity?courseLang=en-US">Junior Cybersecurity Analyst</a> @ Cisco Net Academy in preparation for Cisco's <a href="https://www.netacad.com/resources/program-info/ccst-cybersecurity?courseLang=en-US">CCST Certificate</a></li>
   <li><a href="https://www.comptia.org/en-au/certifications/a-cyber/">a+ Cyber</a> @ CompTIA in Preparation for the <a href="https://www.comptia.org/en-au/certifications/security/">Security+ Qualification</a></li>
 </ul>
 <!--
